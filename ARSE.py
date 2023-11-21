@@ -3,7 +3,7 @@ import json
 import requests
 
 def gen_ai(prompt):
-  url = "https://eggs-bw-lp-awesome.trycloudflare.com/v1/chat/completions"
+  url = "https://horse-drove-architects-convenient.trycloudflare.com/v1/chat/completions"
 
   headers = {
       'Content-Type': 'application/json',
